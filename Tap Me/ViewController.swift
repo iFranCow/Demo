@@ -31,7 +31,7 @@ class ViewController: UIViewController {
     }
     
     func setupGame() {
-        seconds = 40
+        seconds = 50
         count = 0
         
         timerLabel.text = "\(seconds)"
